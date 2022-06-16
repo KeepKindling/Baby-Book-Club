@@ -24,4 +24,27 @@ h1, h2, h3 {
     letter-spacing: 2px;
 }
 
+header {
+    position: fixed;
+}
+
+#logo {
+    float: left;
+    font-size: 150%;
+}
+
+/* navigation */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+
+#menu li {
+    float: right;
+    color: rgb(9, 98, 9);
+    list-style-type: none;
+    margin-right: 20px;
+}
+
 
