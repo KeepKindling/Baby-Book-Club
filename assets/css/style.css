@@ -27,6 +27,9 @@ h1, h2, h3 {
 header {
     position: fixed;
     width: 100%;
+    top: 0;
+    left: 0;
+    clear: both;
 }
 
 #logo {
@@ -43,9 +46,15 @@ header {
 
 #menu li {
     float: right;
-    color: rgb(9, 98, 9);
     list-style-type: none;
     margin-right: 30px;
 }
+
+li > a {
+    color: rgb(9, 98, 9);
+    text-decoration: none;
+    font-size: 120%;
+}
+
 
 
