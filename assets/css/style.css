@@ -24,12 +24,16 @@ h1, h2, h3 {
     letter-spacing: 2px;
 }
 
+/* header */
+
 header {
     position: fixed;
     width: 100%;
     top: 0;
     left: 0;
     clear: both;
+    background-color: #fae2ad;
+    border-bottom: 2px solid black;
 }
 
 #logo {
@@ -53,12 +57,17 @@ header {
 li > a {
     color: rgb(9, 98, 9);
     text-decoration: none;
-    font-size: 120%;
+    font-size: 150%;
 }
 
+/* about */
+
 #about {
-    padding-top: 75px;
+    padding-top: 85px;
 }
+
+
+
 
 
 
