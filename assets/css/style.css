@@ -8,14 +8,14 @@
 
 body {
     font-family: Mukta, sans-serif;
-    font-style: italic;
-    color: rgb(9, 98, 9);
+    font-weight:bold;
+    color: rgb(7, 70, 7);
     background-color: #FDEECD;
 }
 
 div > a {
     text-decoration: none;
-    color: rgb(9, 98, 9);
+    color: rgb(7, 70, 7);
 }
 
 h1, h2, h3 {
@@ -55,7 +55,7 @@ header {
 }
 
 li > a {
-    color: rgb(9, 98, 9);
+    color: rgb(7, 70, 7);
     text-decoration: none;
     font-size: 150%;
 }
@@ -64,6 +64,7 @@ li > a {
 
 #about {
     padding-top: 85px;
+    font-style: italic;
 }
 
 
