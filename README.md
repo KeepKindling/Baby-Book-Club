@@ -9,4 +9,4 @@ bugs -
 
         Couldnt get my favorites section to have items inline so 2 are side by side instead of underneath eachother. i had too many divs and aslo wrapped the image and its text with span instead,altered the height and width and also used float left which allowed me to then have them inline.
 
-        having the favorites section be inline, but only 5 spans, the footer div is sliding up because of the float: left property.
+        having the favorites section be inline, but only 5 spans, the footer div is sliding up because of the float: left property. Fixed the bug by learning to put clear: both; on the element underneath the parent div with floating spans.
