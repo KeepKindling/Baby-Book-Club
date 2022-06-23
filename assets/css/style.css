@@ -32,9 +32,17 @@ h1, h2, h3 {
     padding-top: 20px;
 }
 
-p {
+span > p {
     text-align: left;
     font-size: 1.3em;
+}
+
+#contact {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-top: 1px solid black;
+    text-align: center;
+    font-size: 1.3rem;
 }
 
 /* header */
@@ -70,6 +78,7 @@ header {
     margin-left: 90px;
     margin-right: 90px;
     margin-top: 50px;
+    margin-bottom: 50px;
     padding: 10px;
     border-radius: 30px;
     background-color: azure;
@@ -174,4 +183,16 @@ li > a {
 
 footer {
     clear: both;
+}
+
+#footer-left {
+    float: left;
+    width: 50%;
+    line-height: 30px;
+}
+
+#footer-right {
+    float: right;
+    width: 50%;
+    line-height: 30px;
 }
