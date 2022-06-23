@@ -1,3 +1,28 @@
+<h1 style="text-align: center;">Baby Book Club</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 bugs -
         couldnt get all headings to change to the boldness i wanted. I made a mistake by not adding an import for both sizes i wanted 300 and 800. corrected it now. 
 
