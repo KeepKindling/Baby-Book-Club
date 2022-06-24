@@ -34,6 +34,19 @@ Baby Book Club is an informational website that shares my opinions on books for 
 - Last text box includes a link to [Bright Horizons](https://www.brighthorizons.com/family-resources/articles/e-news/the-importance-of-reading-to-babies-and-infants) which provides much more in depth information as to the science and benefits of this topic
 - with a border color of azure, the background color rgb(255, 228, 177) darker beige doesnt clash with the pages background color #FDEECD lighter beige
 
+#### My Favorites
+
+- This section shows off mry collection of favorite books I read with my kids
+This section is valuable to the user as it gives them some of my choice picks that my kids were very fond of 
+- paired up text and images inside spans to seperate them and have each individual group next to each other on larger screens.
+- The groups utilize azure coloured border to keep the backgrounds from clashing with the page background
+- shows 6 covers of my favorite books with brief descriptions of why they are good picks
+- On smaller devices, they are displayed singularly 1 in a row
+
+ 
+
+
+
 
 
 
