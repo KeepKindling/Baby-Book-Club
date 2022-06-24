@@ -157,6 +157,8 @@ li > a {
     margin: 1.7rem;
     padding: 16px;
     line-height: 1.4rem;
+    display: inline;
+    font-size: 1.3rem;
 }
 
 .about-1 {
