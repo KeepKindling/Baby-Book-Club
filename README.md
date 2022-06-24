@@ -1,5 +1,8 @@
-<h1 style="text-align: center;">Baby Book Club</h1>
+# Baby Book Club
 
+Baby Book Club is an informational website that shares my opinions on books for young children below 3 years old. The target audiance for this site are any first time parents to help them understand why reading is so benefitial if introduced early, But overall is for all parents. It hopes to be useful to parents that care very much by broadening their options as to what book would be great for early development.
+
+[View the live project here.](https://keepkindling.github.io/Baby-Book-Club/)
 
 
 
