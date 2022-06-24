@@ -43,7 +43,14 @@ This section is valuable to the user as it gives them some of my choice picks th
 - shows 6 covers of my favorite books with brief descriptions of why they are good picks
 - On smaller devices, they are displayed singularly 1 in a row
 
- 
+#### Sing-up
+
+- This section is valuable to the user as it lets them sign up by leaving their name and email address so they are notified of any updates I make to my favorites
+- Users have the option to contact me directly by email to give me suggestions of books to try reading with my children
+- I use a fontawesome icon(LinkedIn) to serve as a link when clicked on to direct users to my LinkedIn page to message me directly also 
+- A fontawesome icon(Envelope) sits next to my email address so its obvious what it is for
+- There is also a box where users can write down their suggestions if they dont want to email me directly
+- Border top for the footer section is a solid black line to seperate the footer from the section above so it is clear users are at the bottom of the page
 
 
 
