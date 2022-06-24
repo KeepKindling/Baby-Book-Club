@@ -4,6 +4,33 @@ Baby Book Club is an informational website that shares my opinions on books for 
 
 [View the live project here.](https://keepkindling.github.io/Baby-Book-Club/)
 
+## Features
+
+### Existing Features
+
+#### Header/Navigation bar
+
+- Header is featured at the top of the page
+- Set to a fixed position allows users easy access to navigation options 
+- Nav options at right of header and smaller than logo so name of website is always clear
+- Nav allows users to jump to Home, About, My favorites and Sign-up sections 
+- Logo on the right of header and in larger font and capitalized to give a more appropriate look for a website about childrens books
+- Includes a 2 pixel, black border so it is clear where the header ends and doesnt clash with the page when scrolling
+- When the logo is clicked on, it takes the user back to the top of the page
+
+#### Hero Image
+
+- This section features a large image of a mom and dad reading a book with their child so it is obvious as to who the target audiance
+- Cover text 'Expanding young minds' emphasizes the purpose of the site
+- With a font color of rgb(15, 123, 15) green keeps with the topic of children as its a fun color
+- A background color of rgba(236, 255, 255, 0.6) pale white that is transparent and does not clash with the general theme of the site
+ 
+
+
+
+
+
+
 
 
 
