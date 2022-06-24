@@ -85,6 +85,8 @@ header {
     float: left;
     height: 600px;
     width: 450px;
+    display: inline;
+    font-size: 1.3rem;
 }
 
 #hero-outer {
