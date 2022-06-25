@@ -225,4 +225,13 @@ footer {
         width: 100%;
         float: left;
     }
+
+    .favorites {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .photo-container {
+        margin: 4.6rem;
+    }
 }
