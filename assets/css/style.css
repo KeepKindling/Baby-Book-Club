@@ -200,3 +200,29 @@ footer {
     width: 50%;
     line-height: 30px;
 }
+
+/* Media Queries */
+
+/* For larger to medium screen sizes from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+    #about {
+        width: 80%;
+        height: 800px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .about-all {
+        padding: 20px;
+        margin: 1.2rem;
+        float: left;
+        font-size: 1.4rem;
+        height: calc(100%/0.9);
+    }
+
+    .about-1, .about-2, .about-3 {
+        width: 100%;
+        float: left;
+    }
+}
