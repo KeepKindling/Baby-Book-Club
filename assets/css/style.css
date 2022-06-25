@@ -235,3 +235,24 @@ footer {
         margin: 4.6rem;
     }
 }
+
+/* For medium screen sizes from 950px wide and down */
+
+@media screen and (max-width: 950px) {
+    #menu {
+        line-height: 10px;
+        clear: both;
+        margin: 0;
+        float: left;
+    }
+
+    #logo {
+        padding-top: 2px;
+    }
+
+    header {
+        height: 100px;
+        width: 65%;
+        border: 2px solid black;
+    }
+}
