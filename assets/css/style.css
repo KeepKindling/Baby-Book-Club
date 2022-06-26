@@ -193,12 +193,14 @@ footer {
     float: left;
     width: 50%;
     line-height: 30px;
+    font-size: 85%;
 }
 
 #footer-right {
     float: right;
     width: 50%;
     line-height: 30px;
+    font-size: 85%;
 }
 
 /* Media Queries */
