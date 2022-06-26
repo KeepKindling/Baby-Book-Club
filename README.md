@@ -18,12 +18,15 @@ Baby Book Club is an informational website that shares my opinions on books for 
 - Includes a 2 pixel, black border so it is clear where the header ends and doesnt clash with the page when scrolling
 - When the logo is clicked on, it takes the user back to the top of the page
 
+![Header](/assets/images/header.png)
+
 #### Hero Image
 
 - This section features a large image of a mom and dad reading a book with their child so it is obvious as to who the target audiance
 - Cover text 'Expanding young minds' emphasizes the purpose of the site
 - With a font color of rgb(15, 123, 15) green keeps with the topic of children as its a fun color
 - A background color of rgba(236, 255, 255, 0.6) pale white that is transparent and does not clash with the general theme of the site
+![Hero-Image](/assets/images/hero-image.png)
 
 #### About Section
 
@@ -34,6 +37,8 @@ Baby Book Club is an informational website that shares my opinions on books for 
 - Last text box includes a link to [Bright Horizons](https://www.brighthorizons.com/family-resources/articles/e-news/the-importance-of-reading-to-babies-and-infants) which provides much more in depth information as to the science and benefits of this topic
 - with a border color of azure, the background color rgb(255, 228, 177) darker beige doesnt clash with the pages background color #FDEECD lighter beige
 
+![About](/assets/images/about.png)
+
 #### My Favorites
 
 - This section shows off mry collection of favorite books I read with my kids
@@ -43,6 +48,9 @@ This section is valuable to the user as it gives them some of my choice picks th
 - shows 6 covers of my favorite books with brief descriptions of why they are good picks
 - On smaller devices, they are displayed singularly 1 in a row
 
+![Favorites-1](/assets/images/favorites-1.png)
+![Favorites-2](/assets/images/favorites-2.png)
+
 #### Sing-up
 
 - This section is valuable to the user as it lets them sign up by leaving their name and email address so they are notified of any updates I make to my favorites
@@ -51,6 +59,8 @@ This section is valuable to the user as it gives them some of my choice picks th
 - A fontawesome icon(Envelope) sits next to my email address so its obvious what it is for
 - There is also a box where users can write down their suggestions if they dont want to email me directly
 - Border top for the footer section is a solid black line to seperate the footer from the section above so it is clear users are at the bottom of the page
+
+![Sign-up](/assets/images/footer.png)
 
 #### MetaData
 
@@ -72,7 +82,19 @@ This section is valuable to the user as it gives them some of my choice picks th
 - I used 6 different colors that focused on beige and silver/white backgrounds 
 - I used green for text and dark green for headers
 
+## Validator Testing
 
+I used the W3C Markup Validation Service to test my HTML code for my project and had no errors fortunately.
+
+- W3C Markup Validation Service
+
+![Markup Validator](/assets/images/html-successful-validation-p1.png)
+
+I used the W3C CSS Validation Service to test all css in my stylesheet and also came up with no errors.
+
+- W3C CSS Validation Service
+
+![CSS Validator](/assets/images/css-successful-validation-p1.png)
 
 
 
