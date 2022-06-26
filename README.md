@@ -52,6 +52,26 @@ This section is valuable to the user as it gives them some of my choice picks th
 - There is also a box where users can write down their suggestions if they dont want to email me directly
 - Border top for the footer section is a solid black line to seperate the footer from the section above so it is clear users are at the bottom of the page
 
+#### MetaData
+
+- My Baby Book Club for all Parents
+- baby books, baby reading, family reading
+
+
+## Used Technology 
+
+- HTML5
+- CSS3
+- [Github](https://github.com/)
+- [Git](https://git-scm.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+
+## Page Design 
+
+- I used 6 different colors that focused on beige and silver/white backgrounds 
+- I used green for text and dark green for headers 
+
 
 
 
