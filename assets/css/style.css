@@ -246,16 +246,18 @@ footer {
 
 @media screen and (max-width: 950px) {
     #menu {
-        line-height: 10px;
+        line-height: 25px;
         clear: both;
-        margin: 0 0 0 20px;
         float: left;
-        letter-spacing: 0;
-        font-size: 0.9rem;
+        letter-spacing: 0px;
+        font-size: 100%;
+        padding-top: 5px;
+        margin: 0 auto;
     }
 
     #logo {
         padding-top: 2px;
+        font-size: 100%;
     }
 
     header {
