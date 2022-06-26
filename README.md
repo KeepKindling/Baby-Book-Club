@@ -26,7 +26,7 @@ Baby Book Club is an informational website that shares my opinions on books for 
 - Cover text 'Expanding young minds' emphasizes the purpose of the site
 - With a font color of rgb(15, 123, 15) green keeps with the topic of children as its a fun color
 - A background color of rgba(236, 255, 255, 0.6) pale white that is transparent and does not clash with the general theme of the site
-![Hero-Image](/assets/images/hero-image.png)
+![Hero-Image](/assets/images/hero.png)
 
 #### About Section
 
