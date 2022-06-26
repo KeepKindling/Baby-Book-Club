@@ -258,4 +258,9 @@ footer {
         border: 2px solid black;
     }
 
+    .photo-container {
+        width: 50%;
+        height: 110%;    
+    }
+
 }
