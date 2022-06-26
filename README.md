@@ -70,7 +70,7 @@ This section is valuable to the user as it gives them some of my choice picks th
 ## Page Design 
 
 - I used 6 different colors that focused on beige and silver/white backgrounds 
-- I used green for text and dark green for headers 
+- I used green for text and dark green for headers
 
 
 
