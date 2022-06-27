@@ -267,8 +267,9 @@ footer {
     }
 
     .photo-container {
-        width: 70%;
+        width: 80%;
         height: 110%;
+        margin: 30px;
     }
 
     #hero-text {
@@ -283,6 +284,12 @@ footer {
         text-align: center;
 
         position: relative;
+    }
+
+    #footer-left, #footer-right {
+        float: none;
+        width: 100%;
+        margin-bottom: 40px;
     }
 
 }
