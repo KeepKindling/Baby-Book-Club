@@ -82,7 +82,9 @@ This section is valuable to the user as it gives them some of my choice picks th
 - I used 6 different colors that focused on beige and silver/white backgrounds 
 - I used green for text and dark green for headers
 
-## Validator Testing
+## Testing
+
+### Validator Testing
 
 I used the W3C Markup Validation Service to test my HTML code for my project and had no errors fortunately.
 
@@ -96,29 +98,13 @@ I used the W3C CSS Validation Service to test all css in my stylesheet and also 
 
 ![CSS Validator](/assets/images/css-successful-validation-p1.png)
 
+### Further Testing
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- I have tested that all of the navigation links in the menu work correctly
+- I have tested the logo so it links to the website
+- I have tested the link to extra information on the topic in a new tab [Bright Horizon](https://www.brighthorizons.com/family-resources/articles/e-news/the-importance-of-reading-to-babies-and-infants)
+- I have tested that all input fields in the Sign-up section are required except for the suggestion box
+- I have tested the LinkedIn icon link that it opens in a new tab correctly
 
 
 
