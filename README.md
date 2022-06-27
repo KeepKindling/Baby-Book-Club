@@ -107,6 +107,12 @@ I used the W3C CSS Validation Service to test all css in my stylesheet and also 
 - I have tested that all input fields in the Sign-up section are required except for the suggestion box
 - I have tested the LinkedIn icon link that it opens in a new tab correctly
 
+### Performance Testing 
+
+I used the Lighthouse developer tool to test the sites performance focusing mainly on accessibility and did everything I could to enhance the other scores but the good practices test I couldnt raise as it required me to use the natural aspect ratio of the images I had saved but I defined them specifically as other sizes.
+
+[Lighthouse Test](/assets/images/performance-test-p1.png)
+
 
 
 bugs -
