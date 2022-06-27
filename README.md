@@ -35,13 +35,14 @@ Baby Book Club is an informational website that shares my opinions on books for 
 - First text box gives brief introduction into the benefits of reading for both adults and children
 - second, larger text box goes into detail as to how story time can be made more fun and explains how everyone makes connections to imagery when listening to something being read to them and the benefits it provides
 - Last text box includes a link to [Bright Horizons](https://www.brighthorizons.com/family-resources/articles/e-news/the-importance-of-reading-to-babies-and-infants) which provides much more in depth information as to the science and benefits of this topic
-- with a border color of azure, the background color rgb(255, 228, 177) darker beige doesnt clash with the pages background color #FDEECD lighter beige
+- with a border color of azure, the background color rgb(255, 228, 177) darker beige doesn't clash with the pages background color #FDEECD lighter beige
+- I also decided to make the text black as it is a more pleasing contrast of colors
 
 ![About](/assets/images/about.png)
 
 #### My Favorites
 
-- This section shows off mry collection of favorite books I read with my kids
+- This section shows off my collection of favorite books I read with my kids
 This section is valuable to the user as it gives them some of my choice picks that my kids were very fond of 
 - paired up text and images inside spans to seperate them and have each individual group next to each other on larger screens.
 - The groups utilize azure coloured border to keep the backgrounds from clashing with the page background
@@ -80,7 +81,7 @@ This section is valuable to the user as it gives them some of my choice picks th
 ## Page Design 
 
 - I used 6 different colors that focused on beige and silver/white backgrounds 
-- I used green for text and dark green for headers
+- I used black for text and dark green for headers
 
 ## Testing
 
