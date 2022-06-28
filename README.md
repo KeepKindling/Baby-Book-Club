@@ -111,21 +111,18 @@ I used the W3C CSS Validation Service to test all css in my stylesheet and also 
 
 I used the Lighthouse developer tool to test the sites performance focusing mainly on accessibility and did everything I could to enhance the other scores but the good practices test I couldnt raise as it required me to use the natural aspect ratio of the images I had saved but I defined them specifically as other sizes.
 
-[Lighthouse Test](/assets/images/performance-test-p1.png)
+![Lighthouse Test](/assets/images/performance-test-p1.png)
 
+## Bugs Encountered
 
+1. I was having trouble changing the boldness for all headings. I found the solution when I realised I didn't use an import that included each thickness I wanted to use for the style of font. I forgot to add the 800 style thickness to the import.
 
-bugs -
-        couldnt get all headings to change to the boldness i wanted. I made a mistake by not adding an import for both sizes i wanted 300 and 800. corrected it now. 
+2. I couldn't figure out how to remove the underline that was there by default for the links in my stylesheet. I attempted to use class selectors, which failed to solve the problem, so then decided to try descendent rules. That fixed it.
 
-        couldnt figure out how to remove the underline on any links in the stylesheet. tried making class selector's which didn't work so then tried using descendent rules which did the trick!
+3. I had an issue where the navigation menu wouldn't stay on the top right of the site while also having its position fixed. It would stick underneath the logo on the left instead. I altered the CSS rules but to no avail. It wasn't until I realised I needed to set the width to 100% to fill the page that it was where I wanted it to be.
 
-        Can't get nav menu to be positioned at top right of screen while position is set to fixed. Instead it sticks underneath the logo. attempted changing the css rules to fix it but no success. Finally realized that i didnt set the headers width to 100% to fill the page, after inputing that code, it fixed!
+4. I encountered a problem where the about section's text was sitting at the top of the page, colliding with the header logo and nav menu. After much trial and error, I figured out that I could move the entire section down using the padding attribute.
 
-        encountered a problem where the about section text was pushed to the top of the page, colliding with the header logo and nav menu. after much trial and error, figured out that i could just move the about section down using padding.
+5. I had an issue where my favourites section's items wouldn't be inline, so 2 book descriptions would sit next to each other. I had too many divs, so I changed them to spans, altered the height and width, and finally used float: left, which allowed the items to sit inline with one another.
 
-        Couldnt get my favorites section to have items inline so 2 are side by side instead of underneath eachother. i had too many divs and aslo wrapped the image and its text with span instead,altered the height and width and also used float left which allowed me to then have them inline.
-
-        having the favorites section be inline, but only 5 spans, the footer div is sliding up because of the float: left property. Fixed the bug by learning to put clear: both; on the element underneath the parent div with floating spans.
-
-        encountered issue when i changed the size of website to 500px wide or less, it would create a large gap on the right side of the page but would on have this effect on the hero image and about section. unkown solution
+6. Originally, I had 5 spans in the favourites section, and the footer div would move up and sit next to the final span because of the float: left property I applied to favourites. The issue was corrected after I re-learned that I needed to use clear: both on the next element after the floated parent element.
