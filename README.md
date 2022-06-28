@@ -126,3 +126,14 @@ I used the Lighthouse developer tool to test the sites performance focusing main
 5. I had an issue where my favourites section's items wouldn't be inline, so 2 book descriptions would sit next to each other. I had too many divs, so I changed them to spans, altered the height and width, and finally used float: left, which allowed the items to sit inline with one another.
 
 6. Originally, I had 5 spans in the favourites section, and the footer div would move up and sit next to the final span because of the float: left property I applied to favourites. The issue was corrected after I re-learned that I needed to use clear: both on the next element after the floated parent element.
+
+## Deployment of Site
+
+The site was deployed to GitHub pages. The steps are as follows:
+1. Login to Github account and find your repo
+2. In the repository, go to the settings tab
+3. While in settings, look for and click on "pages"
+4. Click source and choose "main" or "master" and then (root)
+5. Finally click save and refresh the page and the page will display the url to your published site
+
+![upload page site](/assets/images/upload-page-p1.png)
