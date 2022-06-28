@@ -140,9 +140,9 @@ The site was deployed to GitHub pages. The steps are as follows:
 
 ## Credits
 
-[TinyPNG](https://tinypng.com/)- Used to compress all images to save space and improve performance
-[FontAwesome](https://fontawesome.com/)- Used to import icons into website to improve user experience
-[GoogleFonts](https://fonts.google.com/)- Used to import the font "Grandtsander" in various weights. Sans-serif was the backup font.
-[AmIResponsive](https://amiresponsive.co.uk/)- Used to check if the site is responsive across differently sized devices
-[SlackCommunity]- Appreciation to students for the support and advice during the sites development
-My mentor Brian Macharia for helpful guidance
+- [TinyPNG](https://tinypng.com/)- Used to compress all images to save space and improve performance
+- [FontAwesome](https://fontawesome.com/)- Used to import icons into website to improve user experience
+- [GoogleFonts](https://fonts.google.com/)- Used to import the font "Grandtsander" in various weights. Sans-serif was the backup font.
+- [AmIResponsive](https://amiresponsive.co.uk/)- Used to check if the site is responsive across differently sized devices
+- [SlackCommunity]- Appreciation to students for the support and advice during the sites development
+- My mentor Brian Macharia for helpful guidance
