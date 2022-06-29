@@ -70,6 +70,18 @@ This section is valuable to the user as it gives them some of my choice picks th
 - My Baby Book Club for all Parents
 - baby books, baby reading, family reading
 
+## My Goals for Users
+
+First time user should be able to:
+- Quickly understand the purpose of the website
+- Easily navigate through the website using the menu
+- Use the links as intended without issue
+- Find the sites design appropriate for the topic of the site
+
+Returning users should be able to:
+- Check up on the information of the given subject
+- Look for any updates to the favorites section
+- Get in contact with the site owner
 
 ## Used Technology 
 
