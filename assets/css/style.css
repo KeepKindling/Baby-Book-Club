@@ -189,20 +189,43 @@ li>a {
 
 footer {
     clear: both;
+    background-color: #fae2ad;
 }
 
-#footer-left {
-    float: left;
+#footer-top, #footer-bottom {
     width: 50%;
     line-height: 30px;
     font-size: 85%;
 }
 
-#footer-right {
-    float: right;
-    width: 50%;
-    line-height: 30px;
-    font-size: 85%;
+/* form rules */
+
+#form-info {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 700px;
+    padding: 2px;
+    font-size: 1.5rem;
+}
+
+#form-container {
+    width: 95%;
+    margin: 0 auto;
+    background-color: azure;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 1px dashed black;
+}
+
+.form-input {
+    background-color: #FDEECD;
+    border: 2px solid black;
+    width: 100%;
+    padding: 4px;
+    font-size: 1.2rem;
+    margin: 5px auto 25px;
 }
 
 /* Media Queries */
