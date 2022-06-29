@@ -148,4 +148,5 @@ The site was deployed to GitHub pages. The steps are as follows:
 - [GoogleFonts](https://fonts.google.com/)- Used to import the font "Grandtsander" in various weights. Sans-serif was the backup font.
 - [AmIResponsive](https://amiresponsive.co.uk/)- Used to check if the site is responsive across differently sized devices
 - [SlackCommunity]- Appreciation to students for the support and advice during the sites development
+- [mittnamnkenny](https://github.com/mittnamnkenny/bonsai-page)- Took inspiration from the readme layout of this repository
 - My mentor Brian Macharia for helpful guidance
