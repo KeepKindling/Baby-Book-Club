@@ -193,9 +193,9 @@ footer {
 }
 
 #footer-top, #footer-bottom {
-    width: 50%;
+    width: 100%;
     line-height: 30px;
-    font-size: 85%;
+    font-size: 1.1rem;
 }
 
 /* form rules */
@@ -211,12 +211,12 @@ footer {
 }
 
 #form-container {
-    width: 95%;
+    width: 85%;
     margin: 0 auto;
     background-color: azure;
     padding-top: 30px;
     padding-bottom: 30px;
-    border: 1px dashed black;
+    border: 1px solid black;
 }
 
 .form-input {
