@@ -1,6 +1,6 @@
 # Baby Book Club
 
-Baby Book Club is an informational website that shares my opinions on books for young children below 3 years old. The target audiance for this site are any first time parents to help them understand why reading is so benefitial if introduced early, But overall is for all parents. It hopes to be useful to parents that care very much by broadening their options as to what book would be great for early development.
+Baby Book Club is an informational website that shares my opinions on books for young children under 3 years old. The target audience for this site is any first-time parents to help them understand why reading is so beneficial if introduced early, but overall is for all parents. It hopes to be useful to parents that care very much by broadening their options as to what books would be great for early development.
 
 [View the live project here.](https://keepkindling.github.io/Baby-Book-Club/)
 
@@ -12,12 +12,12 @@ Baby Book Club is an informational website that shares my opinions on books for 
 
 #### Header/Navigation bar
 
-- Header is featured at the top of the page
-- Set to a fixed position allows users easy access to navigation options 
-- Nav options at right of header and smaller than logo so name of website is always clear
-- Nav allows users to jump to Home, About, My favorites and Sign-up sections 
-- Logo on the right of header and in larger font and capitalized to give a more appropriate look for a website about childrens books
-- Includes a 2 pixel, black border so it is clear where the header ends and doesnt clash with the page when scrolling
+- The header is featured at the top of the page.
+- Set to a fixed position, it allows users easy access to navigation options. 
+- Nav options are at the right of the header and smaller than the logo so the name of the website is always clear
+- Nav allows users to jump to the Home, About, My favorites and Sign-up sections 
+- The logo on the right of the header is in larger font and capitalised to give a more appropriate look for a website about children's books.
+- Includes a 2 pixel black border so it is clear where the header ends and doesn't clash with the page when scrolling.
 - When the logo is clicked on, it takes the user back to the top of the page
 
 ![Header](/assets/images/header.png)
@@ -124,7 +124,7 @@ I used the W3C CSS Validation Service to test all css in my stylesheet and also 
 
 ### Performance Testing 
 
-I used the Lighthouse developer tool to test the sites performance focusing mainly on accessibility and did everything I could to enhance the other scores but the good practices test I couldnt raise as it required me to use the natural aspect ratio of the images I had saved but I defined them specifically as other sizes.
+I used the Lighthouse developer tool to test the site's performance, focusing primarily on accessibility, and did everything I could to improve the other scores. However, I was unable to raise the good practises test because it required me to use the natural aspect ratio of the images I had saved, but I had specifically defined them as other sizes.
 
 ![Lighthouse Test](/assets/images/performance-test-p1.png)
 
