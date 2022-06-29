@@ -4,6 +4,8 @@ Baby Book Club is an informational website that shares my opinions on books for 
 
 [View the live project here.](https://keepkindling.github.io/Baby-Book-Club/)
 
+![Responsive Test](/assets/images/responsive-test-p1.png)
+
 ## Features
 
 ### Existing Features
@@ -61,7 +63,7 @@ This section is valuable to the user as it gives them some of my choice picks th
 - There is also a box where users can write down their suggestions if they dont want to email me directly
 - Border top for the footer section is a solid black line to seperate the footer from the section above so it is clear users are at the bottom of the page
 
-![Sign-up](/assets/images/footer.png)
+![Sign-up](/assets/images/form-p1.png)
 
 #### MetaData
 
