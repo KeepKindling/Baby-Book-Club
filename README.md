@@ -82,6 +82,7 @@ This section is valuable to the user as it gives them some of my choice picks th
 
 - I used 6 different colors that focused on beige and silver/white backgrounds 
 - I used black for text and dark green for headers
+- I used azure as the background for the form and light beige for the input elements
 
 ## Testing
 
